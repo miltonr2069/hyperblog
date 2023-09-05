@@ -1,9 +1,9 @@
 # hyperblog
 Prueba de diagrama de flujo
-'''mermaid
+´´´mermaid
 graph TD
   A --> B;
   A --> C;
   B --> D;
   C --> D;
-'''
+´´´
